@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.fit
+*.gpx
+*.tcx
+*.racereplay
+*.tsbuildinfo
+.env*
